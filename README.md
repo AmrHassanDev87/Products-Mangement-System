@@ -3,7 +3,7 @@
 📌 A simple **Product Management System** built with **HTML, CSS, Bootstrap, and JavaScript**.  
 This project allows users to **Create, Read, Update, and Delete (CRUD)** products easily.  
 
-👉 **[Click here to Live View Website](https://amrhassandev87.github.io/CRUDS-Product-Management-System/)**  
+👉 **[Click here to Live View Website](https://amrhassandev87.github.io/Products-Mangement-System/)**  
 
  
 
